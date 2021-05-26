@@ -9,7 +9,7 @@ const Main = () => {
       <NavBar />
       <Container fluid>
         <Row className="bg-secondary d-flex justify-content-center" style={{ height:"100vh"}}>
-          <Col lg={8}>
+          <Col lg={10}>
             <Row>
               <Col>
                 <TodoList />
